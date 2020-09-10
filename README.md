@@ -18,7 +18,7 @@
 <br />
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/VD9NtdBN9CwqQ/html5" />
 
 ### I am Vijay Giri :)
 - Software Development Engineer at Acko General Insurance.
