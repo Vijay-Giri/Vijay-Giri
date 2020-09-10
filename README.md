@@ -1,4 +1,24 @@
-### नमस्कार :pray:
+## Hello There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<a href="https://www.linkedin.com/in/vijay-giri-11b1b4154/">
+  <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/Vijay-Giri">
+  <img align="left" alt="Vijay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.facebook.com/girivijay008/">
+  <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br />
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+### I am Vijay Giri :)
+- Software Development Engineer at Acko General Insurance.
+- A Information Technology Undergraduate Student.
 
 <!--
 **Vijay-Giri/Vijay-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
