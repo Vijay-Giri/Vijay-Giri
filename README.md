@@ -12,6 +12,14 @@
   <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<a href="mailto:girivijay009@gmail.com">
+  <img align="left" alt="Vijay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=9453834673&text=Hi!">
+  <img align="left" alt="Vijay's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girivijay009@gmail.com)](mailto:girivijay009@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=9453834673&text=Hi!)](https://api.whatsapp.com/send?phone=9453834673&text=Hi!)
 
