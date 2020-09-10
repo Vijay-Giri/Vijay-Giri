@@ -24,6 +24,8 @@
 - Software Development Engineer at Acko General Insurance.
 - A Information Technology Undergraduate Student.
 
+[![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay-Giri&show_icons=true)](https://github.com/Vijay-Giri)
+
 <!--
 **Vijay-Giri/Vijay-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
