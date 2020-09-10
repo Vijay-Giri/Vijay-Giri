@@ -1,22 +1,22 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/vijay-giri-11b1b4154/">
+<a href="https://www.linkedin.com/in/vijay-giri-11b1b4154/" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/Vijay-Giri">
+<a href="https://github.com/Vijay-Giri" target="_blank">
   <img align="left" alt="Vijay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/girivijay008/">
+<a href="https://www.facebook.com/girivijay008/" target="_blank">
   <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="mailto:girivijay009@gmail.com">
+<a href="mailto:girivijay009@gmail.com" target="_blank">
   <img align="left" alt="Vijay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=9453834673&text=Hi!">
+<a href="https://api.whatsapp.com/send?phone=9453834673&text=Hi!" target="_blank">
   <img align="left" alt="Vijay's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
