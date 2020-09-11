@@ -16,7 +16,7 @@
   <img align="left" alt="Vijay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=9453834673&text=Hi!" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=919453834673&text=Hi!" target="_blank">
   <img align="left" alt="Vijay's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
