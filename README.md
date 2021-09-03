@@ -25,7 +25,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ### I am Vijay Giri :)
-- Software Development Engineer at Acko General Insurance.
+- Software Development Engineer at Flipkart (Ex-Acko).
 - Completed BTech(Information Technology) from IIIT Lucknow (2016-2020).
 
 
